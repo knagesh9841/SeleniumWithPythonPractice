@@ -1,0 +1,453 @@
+1589393816343	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilegRt0nR"
+1589393828690	Marionette	INFO	Listening on port 59124
+1589393829225	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589393829299	Marionette	DEBUG	[6442450945] Frame script loaded
+1589393829301	Marionette	DEBUG	[6442450945] Frame script registered
+1589393829809	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1589393830219	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1589393854995	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.rahulshettyacademy.com/AutomationPractice/
+1589393856768	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.rahulshettyacademy.com/AutomationPractice/
+[Child 8364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8364, Chrome_ChildThread] WARNIN[Parent 6132, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1589393915950	Marionette	INFO	Stopped listening on port 59124
+[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rame script registered
+1589393901434	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1589393901769	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1589393908365	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.rahulshettyacademy.com/AutomationPractice/
+1589393910357	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.rahulshettyacademy.com/AutomationPractice/
+1589393910366	Marionette	INFO	Stopped listening on port 59198
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1589395020875	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileip1OnS"
+1589395025998	Marionette	INFO	Listening on port 59814
+1589395026405	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589395026491	Marionette	DEBUG	[6442450945] Frame script loaded
+1589395026494	Marionette	DEBUG	[6442450945] Frame script registered
+1589395026522	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1589395027014	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1589395029734	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.rahulshettyacademy.com/AutomationPractice/
+1589395031675	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.rahulshettyacademy.com/AutomationPractice/
+1589395035271	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.rahulshettyacademy.com/AutomationPractice/
+1589395035358	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.rahulshettyacademy.com/AutomationPractice/
+1589395035359	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.rahulshettyacademy.com/AutomationPractice/
+1589395035865	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1589395035877	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.rahulshettyacademy.com/#/index
+1589395036114	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.rahulshettyacademy.com/#/index
+1589395036297	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.rahulshettyacademy.com/#/index
+1589395036324	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.rahulshettyacademy.com/#/index
+1589395036324	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.rahulshettyacademy.com/#/index
+1589395036711	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.rahulshettyacademy.com/AutomationPractice/
+1589395037337	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.rahulshettyacademy.com/AutomationPractice/
+1589395037362	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.rahulshettyacademy.com/AutomationPractice/
+1589395037386	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.rahulshettyacademy.com/AutomationPractice/
+1589395037387	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.rahulshettyacademy.com/AutomationPractice/
+1589395038140	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.rahulshettyacademy.com/#/index
+1589395038143	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450953
+1589395038148	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.rahulshettyacademy.com/#/index
+1589395038160	Marionette	INFO	Stopped listening on port 59814
+[Child 13860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 138
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1589395078793	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileCKMcmw"
+1589395083070	Marionette	INFO	Listening on port 59877
+1589395083181	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589395083233	Marionette	DEBUG	[6442450945] Frame script loaded
+1589395083235	Marionette	DEBUG	[6442450945] Frame script registered
+1589395083323	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1589395083674	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1589395086459	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.rahulshettyacademy.com/AutomationPractice/
+1589395088227	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.rahulshettyacademy.com/AutomationPractice/
+1589395091831	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.rahulshettyacademy.com/AutomationPractice/
+1589395091931	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.rahulshettyacademy.com/AutomationPractice/
+1589395091931	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.rahulshettyacademy.com/AutomationPractice/
+1589395092524	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1589395092534	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.rahulshettyacademy.com/#/index
+1589395092737	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.rahulshettyacademy.com/#/index
+1589395092930	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.rahulshettyacademy.com/#/index
+1589395092960	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.rahulshettyacademy.com/#/index
+1589395092960	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.rahulshettyacademy.com/#/index
+1589395093189	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.rahulshettyacademy.com/AutomationPractice/
+1589395093916	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.rahulshettyacademy.com/AutomationPractice/
+1589395093950	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.rahulshettyacademy.com/AutomationPractice/
+1589395093978	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.rahulshettyacademy.com/AutomationPractice/
+1589395093979	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.rahulshettyacademy.com/AutomationPractice/
+1589395094744	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.rahulshettyacademy.com/#/index
+1589395094746	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450953
+1589395094750	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.rahulshettyacademy.com/#/index
+1589395094765	Marionette	INFO	Stopped listening on port 59877
+[Parent 9104, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9104, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Child 8684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8[Parent 9104, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1589396525435	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileRbMqR3"
+1589396529675	Marionette	INFO	Listening on port 60531
+1589396529956	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589396529997	Marionette	DEBUG	[6442450945] Frame script loaded
+1589396530010	Marionette	DEBUG	[6442450945] Frame script registered
+1589396530037	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1589396531325	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1589396536034	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.rahulshettyacademy.com/AutomationPractice/
+1589396537998	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.rahulshettyacademy.com/AutomationPractice/
+1589396541603	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.rahulshettyacademy.com/AutomationPractice/
+1589396541802	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.rahulshettyacademy.com/AutomationPractice/
+1589396541804	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.rahulshettyacademy.com/AutomationPractice/
+1589396542284	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.rahulshettyacademy.com/#/index
+1589396542332	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1589396542467	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.rahulshettyacademy.com/#/index
+1589396542598	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.rahulshettyacademy.com/#/index
+1589396542627	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.rahulshettyacademy.com/#/index
+1589396542628	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.rahulshettyacademy.com/#/index
+1589396543038	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.rahulshettyacademy.com/AutomationPractice/
+1589396543551	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.rahulshettyacademy.com/AutomationPractice/
+1589396543581	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.rahulshettyacademy.com/AutomationPractice/
+1589396543599	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.rahulshettyacademy.com/AutomationPractice/
+1589396543600	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.rahulshettyacademy.com/AutomationPractice/
+1589396544289	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.rahulshettyacademy.com/#/index
+1589396544291	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450953
+1589396544296	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.rahulshettyacademy.com/#/index
+1589396544321	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.rahulshettyacademy.com/#/index
+1589396544478	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.rahulshettyacademy.com/#/index
+1589396544479	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.rahulshettyacademy.com/#/index
+1589396545546	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.rahulshettyacademy.com/#/index
+1589396546752	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.rahulshettyacademy.com/#/index
+1589396546760	Marionette	INFO	Stopped listening on port 60531
+[Child 7876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7876, Chrome_ChildThread[Child 7412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7412, Chrome_[Parent 8640, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1589397703471	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile7JdirP"
+1589397708514	Marionette	INFO	Listening on port 61251
+1589397709001	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589397709068	Marionette	DEBUG	[6442450945] Frame script loaded
+1589397709069	Marionette	DEBUG	[6442450945] Frame script registered
+1589397709086	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1589397709490	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1589397723626	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.rahulshettyacademy.com/AutomationPractice/
+1589397725335	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.rahulshettyacademy.com/AutomationPractice/
+1589397728957	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.rahulshettyacademy.com/AutomationPractice/
+1589397729082	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.rahulshettyacademy.com/AutomationPractice/
+1589397729083	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.rahulshettyacademy.com/AutomationPractice/
+1589397729319	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1589397729632	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.rahulshettyacademy.com/#/index
+1589397729836	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.rahulshettyacademy.com/#/index
+1589397730010	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.rahulshettyacademy.com/#/index
+1589397730103	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.rahulshettyacademy.com/#/index
+1589397730104	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.rahulshettyacademy.com/#/index
+1589397732445	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.rahulshettyacademy.com/AutomationPractice/
+1589397733206	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.rahulshettyacademy.com/AutomationPractice/
+1589397733274	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.rahulshettyacademy.com/AutomationPractice/
+1589397733312	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.rahulshettyacademy.com/AutomationPractice/
+1589397733312	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.rahulshettyacademy.com/AutomationPractice/
+1589397734029	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.rahulshettyacademy.com/#/index
+1589397734033	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450953
+1589397734175	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.rahulshettyacademy.com/#/index
+1589397734215	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.rahulshettyacademy.com/#/index
+1589397734633	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.rahulshettyacademy.com/#/index
+1589397734638	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.rahulshettyacademy.com/#/index
+1589397735979	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.rahulshettyacademy.com/#/index
+1589397736338	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.rahulshettyacademy.com/#/index
+1589397736382	Marionette	INFO	Stopped listening on port 61251
+[Parent 8176, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child [Parent 8176, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1589920753154	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileu0w8cw"
+1589920767845	Marionette	INFO	Listening on port 53219
+1589920768213	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589920768365	Marionette	DEBUG	[6442450945] Frame script loaded
+1589920768475	Marionette	DEBUG	[6442450945] Frame script registered
+1589920768623	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1589920769304	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1589920797256	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.rahulshettyacademy.com/AutomationPractice/
+1589920798962	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.rahulshettyacademy.com/AutomationPractice/
+1589920875543	Marionette	INFO	Stopped listening on port 53219
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1589920882437	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilez8SJ5n"
+1589920886556	Marionette	INFO	Listening on port 53304
+1589920886908	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589920887000	Marionette	DEBUG	[6442450945] Frame script loaded
+1589920887003	Marionette	DEBUG	[6442450945] Frame script registered
+1589920887040	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1589920887500	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1589920910584	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.rahulshettyacademy.com/AutomationPractice/
+JavaScript error: https://www.rahulshettyacademy.com/AutomationPractice/, line 344: TypeError: $(...).autocomplete is not a function
+1589920913019	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.rahulshettyacademy.com/AutomationPractice/
+1589920920087	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 15516, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15516, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child1589920966589	Marionette	INFO	Stopped listening on port 53304
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1589920974754	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile49JzPK"
+1589920979694	Marionette	INFO	Listening on port 53369
+1589920979844	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589920979941	Marionette	DEBUG	[6442450945] Frame script loaded
+1589920979944	Marionette	DEBUG	[6442450945] Frame script registered
+1589920979997	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1589920980787	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1589920982246	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.rahulshettyacademy.com/AutomationPractice/
+1589920984555	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.rahulshettyacademy.com/AutomationPractice/
+1589920991642	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1589920992698	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1589920993088	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1589920993407	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1589920993788	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1589920994078	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1589920994770	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1589920995115	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1589920996027	Marionette	DEBUG	[6442450951] Frame script loaded
+1589920996028	Marionette	DEBUG	[6442450951] Frame script registered
+1589920998183	Marionette	INFO	Stopped listening on port 53369
+[Parent 11076, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11076, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 1
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1589921041808	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile4Q1DOP"
+*** You are running in headless mode.
+1589921046751	Marionette	INFO	Listening on port 53460
+1589921046795	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589921046841	Marionette	DEBUG	[6442450945] Frame script loaded
+1589921046844	Marionette	DEBUG	[6442450945] Frame script registered
+1589921046900	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1589921047303	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1589921051591	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.rahulshettyacademy.com/AutomationPractice/
+1589921053504	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.rahulshettyacademy.com/AutomationPractice/
+1589921060436	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1589921061353	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1589921061785	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1589921062050	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1589921062337	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1589921062622	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1589921063082	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1589921063377	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1589921064204	Marionette	DEBUG	[6442450951] Frame script loaded
+1589921064214	Marionette	DEBUG	[6442450951] Frame script registered
+1589921065944	Marionette	INFO	Stopped listening on port 53460
+[Child 5896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17964, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/omni.ja!/components/nsBrowserGlue.js, line 1057: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]
+1590349482694	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileNX2qr4"
+*** You are running in headless mode.
+1590349492539	Marionette	INFO	Listening on port 49269
+1590349492628	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590349492660	Marionette	DEBUG	[6442450945] Frame script loaded
+1590349492890	Marionette	DEBUG	[6442450945] Frame script registered
+1590349493048	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1590349493749	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1590349496130	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.rahulshettyacademy.com/AutomationPractice/
+1590349498750	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.rahulshettyacademy.com/AutomationPractice/
+1590349505607	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1590349506296	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1590349506583	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1590349506803	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1590349507036	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1590349507271	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1590349507628	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1590349507863	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1590349508360	Marionette	DEBUG	[6442450951] Frame script loaded
+1590349508361	Marionette	DEBUG	[6442450951] Frame script registered
+1590349630135	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileBalLWw"
+*** You are running in headless mode.
+1590349634758	Marionette	INFO	Listening on port 49421
+1590349635087	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590349635123	Marionette	DEBUG	[6442450945] Frame script loaded
+1590349635124	Marionette	DEBUG	[6442450945] Frame script registered
+1590349635138	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1590349635428	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1590349639246	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.rahulshettyacademy.com/AutomationPractice/
+1590349641116	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.rahulshettyacademy.com/AutomationPractice/
+1590349647945	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1590349648628	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1590349648942	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1590349649192	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1590349649462	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1590349649694	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1590349650019	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1590349650283	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1590349650703	Marionette	DEBUG	[6442450951] Frame script loaded
+1590349650704	Marionette	DEBUG	[6442450951] Frame script registered
+1590350115044	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofiledzcCsN"
+*** You are running in headless mode.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1590350118187	Marionette	INFO	Listening on port 49621
+1590350118292	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590350118330	Marionette	DEBUG	[6442450945] Frame script loaded
+1590350118330	Marionette	DEBUG	[6442450945] Frame script registered
+1590350118346	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1590350119440	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1590350121851	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.rahulshettyacademy.com/AutomationPractice/
+1590350123805	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.rahulshettyacademy.com/AutomationPractice/
+1590350130606	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1590350131265	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1590350131535	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1590350131769	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1590350132017	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1590350132261	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1590350132624	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1590350132857	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1590350133269	Marionette	DEBUG	[6442450951] Frame script loaded
+1590350133271	Marionette	DEBUG	[6442450951] Frame script registered
+1590350834072	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileVHVXus"
+1590350838909	Marionette	INFO	Listening on port 50163
+1590350839030	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590350839064	Marionette	DEBUG	[6442450945] Frame script loaded
+1590350839118	Marionette	DEBUG	[6442450945] Frame script registered
+1590350839149	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1590350839837	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1590350878342	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.rahulshettyacademy.com/AutomationPractice/
+1590350880168	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.rahulshettyacademy.com/AutomationPractice/
+1590350886970	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1590350887634	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1590350887922	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1590350888142	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1590350888369	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1590350888599	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1590350888957	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1590350889195	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1590350889790	Marionette	DEBUG	[6442450951] Frame script loaded
+1590350889793	Marionette	DEBUG	[6442450951] Frame script registered
+1590352199843	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileiGRvMg"
+1590352204745	Marionette	INFO	Listening on port 50699
+1590352204821	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590352204862	Marionette	DEBUG	[6442450945] Frame script loaded
+1590352204863	Marionette	DEBUG	[6442450945] Frame script registered
+1590352204882	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1590352205652	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1590352212029	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.rahulshettyacademy.com/AutomationPractice/
+1590352213740	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.rahulshettyacademy.com/AutomationPractice/
+1590352220626	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1590352221334	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1590352221647	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1590352221863	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1590352222111	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1590352222357	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1590352222684	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1590352222916	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1590352223368	Marionette	DEBUG	[6442450951] Frame script loaded
+1590352223368	Marionette	DEBUG	[6442450951] Frame script registered
+1590400029264	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileQBgZwN"
+*** You are running in headless mode.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1590400038407	Marionette	INFO	Listening on port 57196
+1590400038467	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590400038565	Marionette	DEBUG	[6442450945] Frame script loaded
+1590400038607	Marionette	DEBUG	[6442450945] Frame script registered
+1590400039190	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1590400052697	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript warning: https://cdn.jotfor.ms/js/vendor/imageinfo.js?v=3.3.11170, line 19: unreachable code after return statement
+1590400060237	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://demo.guru99.com/test/autoit.html
+JavaScript error: http://demo.guru99.com/test/js/home-bar.js, line 3: TypeError: $(...) is null
+JavaScript error: http://demo.guru99.com/test/autoit.html, line 163: TypeError: jQuery(...).colorbox is not a function
+JavaScript warning: https://cdn.jotfor.ms/js/vendor/imageinfo.js?v=3.3.12880, line 19: unreachable code after return statement
+JavaScript error: http://demo.guru99.com/test/autoit.html, line 35: ReferenceError: JCaption is not defined
+1590400073343	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://demo.guru99.com/test/autoit.html
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+nored for this session
+1590400105251	Marionette	DEBUG	[6442450945] Frame script loaded
+1590400105253	Marionette	DEBUG	[6442450945] Frame script registered
+1590400105276	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1590400120358	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript warning: https://cdn.jotfor.ms/js/vendor/imageinfo.js?v=3.3.11170, line 19: unreachable code after return statement
+1590400126257	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://demo.guru99.com/test/autoit.html
+JavaScript error: http://demo.guru99.com/test/js/home-bar.js, line 3: TypeError: $(...) is null
+JavaScript error: http://demo.guru99.com/test/autoit.html, line 163: TypeError: jQuery(...).colorbox is not a function
+JavaScript warning: https://cdn.jotfor.ms/js/vendor/imageinfo.js?v=3.3.12880, line 19: unreachable code after return statement
+JavaScript error: http://demo.guru99.com/test/autoit.html, line 35: ReferenceError: JCaption is not defined
+1590400141753	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://demo.guru99.com/test/autoit.html
+[Child 7024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7024, Chrome_Ch[Parent 20332, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1590400211291	Marionette	INFO	Stopped listening on port 57279
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590400222447	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilevKJarq"
+1590400227373	Marionette	INFO	Listening on port 57358
+1590400227479	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590400227549	Marionette	DEBUG	[6442450945] Frame script loaded
+1590400227587	Marionette	DEBUG	[6442450945] Frame script registered
+1590400227614	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1590400239732	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript warning: https://cdn.jotfor.ms/js/vendor/imageinfo.js?v=3.3.11170, line 19: unreachable code after return statement
+1590400245590	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://demo.guru99.com/test/autoit.html
+JavaScript error: http://demo.guru99.com/test/js/home-bar.js, line 3: TypeError: $(...) is null
+JavaScript error: http://demo.guru99.com/test/autoit.html, line 163: TypeError: jQuery(...).colorbox is not a function
+JavaScript warning: https://cdn.jotfor.ms/js/vendor/imageinfo.js?v=3.3.12880, line 19: unreachable code after return statement
+JavaScript error: http://demo.guru99.com/test/autoit.html, line 35: ReferenceError: JCaption is not defined
+1590400265764	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://demo.guru99.com/test/autoit.html
+1590400270539	Marionette	INFO	Stopped listening on port 57358
+[Parent 19680, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6492, Ch[GPU 6532,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590402565301	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilecbMj30"
+1590402570174	Marionette	INFO	Listening on port 58262
+1590402570301	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590402570406	Marionette	DEBUG	[6442450945] Frame script loaded
+1590402570451	Marionette	DEBUG	[6442450945] Frame script registered
+1590402570586	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1590402571675	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1590402583025	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.demoqa.com/upload-download
+1590402583231	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.demoqa.com/upload-download
+1590402591467	Marionette	INFO	Stopped listening on port 58262
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 6048
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590402752771	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilecsqn8o"
+1590402756519	Marionette	INFO	Listening on port 58324
+1590402756715	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590402756797	Marionette	DEBUG	[6442450945] Frame script loaded
+1590402756827	Marionette	DEBUG	[6442450945] Frame script registered
+1590402756856	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1590402757701	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1590402761719	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.demoqa.com/upload-download
+1590402766087	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.demoqa.com/upload-download
+1590402774050	Marionette	INFO	Stopped listening on port 58324
+[Child 12444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12444, Chrome_ChildT[Parent 6400, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590403017803	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilekLcasM"
+1590403021599	Marionette	INFO	Listening on port 58394
+1590403022021	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590403022077	Marionette	DEBUG	[6442450945] Frame script loaded
+1590403022079	Marionette	DEBUG	[6442450945] Frame script registered
+1590403022104	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1590403023058	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1590403047252	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.demoqa.com/upload-download
+1590403048216	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.demoqa.com/upload-download
+1590403056277	Marionette	INFO	Stopped listening on port 58394
+[Child 19656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19656, Chrome_ChildThread] [GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
